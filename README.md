@@ -1,29 +1,19 @@
-# Hi there 👋, I'm Anuj Kumar Yadav
+# Hi there! 👋 I'm Anuj Kumar Yadav
 
 ## About Me
-I'm a passionate student pursuing a B.Tech in Electronics and Communication Engineering at PSIT, graduating in 2023. I have a strong interest in programming and problem-solving. I'm proficient in Python, Java, Data Structures and Algorithms, Linux, and SQL. I'm currently based in Delhi.
-
-## 📚 Education
-- Bachelor of Technology (B.Tech) in Electronics and Communication Engineering
-  - PSIT (Pranveer Singh Institute of Technology)
-  - Graduating in 2023
-
-## 🔧 Skills
-- Programming Languages: Python, Java
-- Data Structures & Algorithms
-- Linux
-- SQL
+- 🎓 Currently pursuing B.Tech in ECE at PSIT, Delhi, expected to graduate in 2023.
+- 💼 Skills: Python, Java, Data Structures & Algorithms, Linux, SQL.
+- 🏡 Based in Delhi, India.
 
 ## 📫 Contact Me
-- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/anuj-kumar-yadav-5ba00a165/)
-- Twitter: [Follow me on Twitter](https://twitter.com/Yadavanshianuj2)
-- Email: yadavanuj204@gmail.com
+- 📧 Email: [yadavanuj204@gmail.com](mailto:yadavanuj204@gmail.com)
+- 👔 LinkedIn: [Anuj Kumar Yadav](https://www.linkedin.com/in/anuj-kumar-yadav-5ba00a165/)
+- 🐦 Twitter: [yadavanuj204](https://twitter.com/yadavanuj204)
+- 📷 Instagram: [yaduvanshi_anuj2](https://www.instagram.com/yaduvanshi_anuj2/)
+- 💼 HackerRank: [EC3D_310044](https://www.hackerrank.com/EC3D_310044?hr_r=1)
+
+## 🌐 LeetCode
+- LeetCode Profile: [Yadavanuj204](https://leetcode.com/Yadavanuj204/)
 
 ## 📊 GitHub Stats
-[![Anuj Kumar Yadav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yadavanuj204&show_icons=true&count_private=true)](https://github.com/Yadavanuj204)
-
-## 🌟 Top Repositories
-- [Repository Name](Link to Repository)
-- [Repository Name](Link to Repository)
-
-Feel free to connect with me on LinkedIn, follow me on Twitter, or drop me an email. Let's connect and collaborate! 😊
+[![Anuj Kumar Yadav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yadavanshianuj2&show_icons=true&count_private=true)](https://github.com/Yadavanshianuj2)
